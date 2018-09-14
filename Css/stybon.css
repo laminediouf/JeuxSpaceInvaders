@@ -7,7 +7,7 @@ body{
 }
 canvas {
     position:absolute;
-    left:450px;
+    left:300px;
     top:100px;
     width:780px;
     height:550px;
@@ -21,7 +21,7 @@ canvas {
 #scoreDiv, #alivesDiv, #levelDiv{
     position:absolute;
     top:100px;
-    left:1450px;
+    left:1150px;
     
 }
 #score, #alives, #level {
@@ -55,7 +55,7 @@ h1{
 }
 button{
     position: absolute;
-    left:1450px;
+    left:1150px;
     top: 500px;
     width: 150px;
     height: 50px;
